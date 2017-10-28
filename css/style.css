@@ -1,0 +1,64 @@
+body{
+	cursor: default;
+}
+.h1, h1 {
+    font-size: 4em;
+    font-family: 'Raleway';
+    text-align: left;
+}
+
+.h2, h2 {
+    font-size: 2em;
+    font-family: 'Cabin';
+    font-weight: 900;
+}
+
+.h3, h3 {
+    font-size: 1.35em;
+    font-family: 'Open Sans';
+    line-height: 1.4em;
+    word-spacing: 0.1em;
+    text-align: left;
+
+}
+
+.h4, h4 {
+   font-size: 1.5em;
+    font-family: 'Open Sans';
+    line-height: 1.4em;
+    word-spacing: 0.1em;
+    color:#fff;
+
+}
+
+h5, h5 {
+   font-size: 1em;
+    font-family: 'Open Sans';
+    line-height: 1.4em;
+    word-spacing: 0.1em;
+    color:#fff;
+
+}
+
+.white-space{
+	height: 80px;
+
+}
+
+a {
+    color:#0b9dde;
+    text-decoration: none;
+}
+
+a:hover {
+    color:#adadad;
+}
+
+.site-footer{
+    background-color: #0b9dde;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
