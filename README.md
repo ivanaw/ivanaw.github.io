@@ -3,13 +3,11 @@ jQuery ImageListExpander
 
 Current Version: 1.0.0
 
-그냥 있으면 좋을 것 같아서 만듭니다.
-
 - Reference: <http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview>
 
 ## Example
 
-`bower install --dev` 이후 사용하시면 됩니다.
+`bower install --dev` 
 
 ## How to use
 
